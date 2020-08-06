@@ -20,9 +20,7 @@
 <br>
 
 ### My Inspiration !
-
-![](unnamed.gif) <br>
-                
+![alt-text](https://github.com/indeblue/indeblue/blob/master/unnamed.gif)                
 ### Connect with me:
 
 
