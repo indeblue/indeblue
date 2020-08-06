@@ -21,7 +21,7 @@
 
 ### My Inspiration !
 
-![alt-text](unnamed.gif)
+![](unnamed.gif) <br>
                 
 ### Connect with me:
 
