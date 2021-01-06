@@ -31,6 +31,6 @@
 
 [instagram]: https://instagram.com/the_trouper_
 [linkedin]: https://linkedin.com/in/akshay-soniv27
-
+<br>
 
 ![](https://komarev.com/ghpvc/?username=indeblue&style=flat-square)
