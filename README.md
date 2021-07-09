@@ -1,7 +1,7 @@
 ### Hi there,I'm Akshay Soni 👋
 
 
-- 🔭 I’m currently working on a Secret Project 😉🤞
+<!-- - 🔭 I’m currently working on a Secret Project 😉🤞 -->
 - 🌱 I’m currently learning  Blockchain
 - ⚡ Fun facts: If you beat your own record, you’re both a winner and a loser.<br><br>
 
